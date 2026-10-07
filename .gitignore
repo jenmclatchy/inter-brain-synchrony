@@ -1,0 +1,8 @@
+# raw EEG binaries (about 4.2 GB, fetched by code/00_download.py)
+data/raw/
+# intermediate epochs
+derivatives/epochs/
+__pycache__/
+*.pyc
+.DS_Store
+_ibs_bundle.tgz

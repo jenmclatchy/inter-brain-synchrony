@@ -1,0 +1,6 @@
+mne==1.13.2
+hypyp==0.6.2
+numpy
+scipy
+pandas
+matplotlib
